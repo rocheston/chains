@@ -1,0 +1,38 @@
+{
+  "name": "Rosecoin",
+  "chain": "ROC",
+  "rpc": [
+    "https://roc.rosebird.org/rpc"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Rosecoin",
+    "symbol": "ROC",
+    "decimals": 18
+  },
+  "features": [
+    { "name": "EIP155" }
+  ],
+  "infoURL": "https://www.rocheston.com/rct-resources/rosecoin/",
+  "shortName": "roc",
+  "chainId": 2833,
+  "networkId": 2833,
+  "icon": {
+    "url": "ipfs://bafkreiauhf3vih2cma27w7zv5zkr6lh5tq3or7tslb5duvygz2pgnj5qxu",
+    "width": 32,
+    "height": 32,
+    "format": "png"
+  },
+  "explorers": [
+    {
+      "name": "Rosecoin Explorer",
+      "url": "https://roc.rosebird.org",
+      "icon": {
+        "url": "ipfs://bafkreiauhf3vih2cma27w7zv5zkr6lh5tq3or7tslb5duvygz2pgnj5qxu",
+        "width": 32,
+        "height": 32,
+        "format": "png"
+      }
+    }
+  ]
+}
